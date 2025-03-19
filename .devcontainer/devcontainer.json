@@ -28,6 +28,6 @@
   "features": {
     "git": "latest",
     "node": "16",
-    "python": "3.10"
+    "python": "os-provided"
   }
 }
